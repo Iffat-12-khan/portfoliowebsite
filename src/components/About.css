@@ -1,0 +1,23 @@
+.about-container{
+    text-align:center;
+}
+
+.about-card{
+    max-width:850px;
+    margin:auto;
+    padding:35px;
+    background:white;
+    color:#222;
+    border-radius:15px;
+    box-shadow:0 10px 25px rgba(0,0,0,.3);
+}
+
+.about-card p{
+    margin:18px 0;
+    font-size:18px;
+    line-height:1.8;
+}
+
+.about-card strong{
+    color:#7c3aed;
+}

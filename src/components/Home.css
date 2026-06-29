@@ -1,0 +1,56 @@
+.home{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:20px;
+}
+
+.home h1{
+    font-size:60px;
+    margin-bottom:20px;
+}
+
+.home span{
+    color:#c084fc;
+}
+
+.home h2{
+    color:#d8b4fe;
+    margin-bottom:25px;
+    font-weight:500;
+}
+
+.home p{
+    max-width:700px;
+    font-size:20px;
+    line-height:1.8;
+    margin-bottom:35px;
+}
+
+.home button{
+    padding:15px 35px;
+    font-size:18px;
+}
+
+.home button:hover{
+    transform:translateY(-5px);
+}
+
+@media(max-width:768px){
+
+.home h1{
+font-size:40px;
+}
+
+.home h2{
+font-size:24px;
+}
+
+.home p{
+font-size:17px;
+}
+
+}

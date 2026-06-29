@@ -1,0 +1,49 @@
+footer{
+
+padding:40px;
+
+text-align:center;
+
+background:#111827;
+
+}
+
+footer h3{
+
+color:#c084fc;
+
+margin-bottom:15px;
+
+}
+
+.social{
+
+margin:20px 0;
+
+}
+
+.social a{
+
+margin:0 15px;
+
+color:white;
+
+text-decoration:none;
+
+transition:.3s;
+
+}
+
+.social a:hover{
+
+color:#c084fc;
+
+}
+
+.copyright{
+
+font-size:14px;
+
+color:#bbb;
+
+}
