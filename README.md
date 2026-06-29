@@ -5,7 +5,7 @@ A modern and responsive personal portfolio website built with React. This projec
 ## Features
 
 - Responsive navigation bar
-- Hero section with introduction
+- Home section with introduction
 - About section
 - Skills section
 - Projects section
